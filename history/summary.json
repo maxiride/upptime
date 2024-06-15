@@ -6,18 +6,16 @@
     "slug": "duck-duck-go",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 96,
-    "timeWeek": 150,
-    "timeMonth": 133,
+    "timeDay": 114,
+    "timeWeek": 160,
+    "timeMonth": 137,
     "timeYear": 106,
-    "dailyMinutesDown": {
-      "2024-06-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Homelab",
@@ -36,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-14": 1234,
+      "2024-06-15": 3,
+      "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -399,8 +398,7 @@
       "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
-      "2023-06-17": 1440,
-      "2023-06-16": 1440
+      "2023-06-17": 1440
     }
   }
 ]
