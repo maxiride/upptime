@@ -4,19 +4,19 @@
     "url": "https://duckduckgo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/duckduckgo.com.ico",
     "slug": "duck-duck-go",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 124,
-    "timeWeek": 160,
-    "timeMonth": 137,
+    "timeDay": 140,
+    "timeWeek": 161,
+    "timeMonth": 138,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 23
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-16": 28,
+      "2024-06-16": 51,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
