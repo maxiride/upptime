@@ -4,7 +4,7 @@
     "url": "https://duckduckgo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/duckduckgo.com.ico",
     "slug": "duck-duck-go",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 115,
     "timeYear": 109,
     "dailyMinutesDown": {
+      "2024-07-18": 0,
       "2024-06-16": 23
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-18": 3,
+      "2024-07-18": 1340,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
